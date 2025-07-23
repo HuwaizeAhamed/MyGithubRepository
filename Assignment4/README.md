@@ -1,0 +1,2 @@
+This usecase is regarding reading the values from the request body, path parameters as XML format and
+generating the response as JSON format and inserting into the Database respectively along with arrays,clob data and dynamic payload size.

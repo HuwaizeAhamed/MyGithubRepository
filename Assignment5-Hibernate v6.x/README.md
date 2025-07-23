@@ -1,0 +1,2 @@
+This usecase is regarding how to create crud operations and persisting it into database using hibernate and
+generating the response as JSON or XML message formats respectively along with customized HttpStatus,by enabling loggers(log4j/slf4j).

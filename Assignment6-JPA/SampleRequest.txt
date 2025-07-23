@@ -1,0 +1,133 @@
+{
+    "productId":1,
+    "chocolates": "Catberry",
+    "juice": "Frooti",
+    "cheese": "Amul Cheese",
+    "panner": "Milkymist Panner",
+    "iceCream": "Mango",
+    "techProducts": [
+        {
+            "mId":101,
+            "mobileName": "Realme",
+            "mobileBrand": "OPPO Realme",
+            "ram": 8,
+            "rom": 128,
+            "price": 60000.00,
+            "mobileModels": [
+                {
+                    "modelId":1001,
+                    "cameraQuality": "100MP",
+                    "modelName": "11 pro",
+                    "gamingPerformance": "High",
+                    "chipSet": "MediaTek1080"
+                },
+                {
+                    "modelId":1002,
+                    "cameraQuality": "50MP",
+                    "modelName": "narzo 8",
+                    "gamingPerformance": "Low",
+                    "chipSet": "snapdragon760"
+                }
+            ]
+        },
+        {
+            "mId":102,
+            "mobileName": "Apple",
+            "mobileBrand": "IOS",
+            "ram": 4,
+            "rom": 128,
+            "price": 160000.00,
+            "mobileModels": [
+                {
+                    "modelId":1003,
+                    "cameraQuality": "28MP",
+                    "modelName": "11 pro",
+                    "gamingPerformance": "High",
+                    "chipSet": "Bionic 11"
+                },
+                {
+                    "modelId":1004,
+                    "cameraQuality": "36",
+                    "modelName": "11 pro Max",
+                    "gamingPerformance": "Ultra High",
+                    "chipSet": "snapdragon1080"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+{
+    "productId": 2,
+    "chocolates": "Kitkat",
+    "juice": "Pepsi",
+    "cheese": "HomeMade Cheese",
+    "panner": "Amul Panner",
+    "iceCream": "Vanilla",
+    "techProducts": [
+        {
+            "mId": 155,
+            "mobileName": "Samsung XR",
+            "mobileBrand": "Samsung",
+            "ram": 12,
+            "rom": 256,
+            "price": 260000.00,
+            "mobileModels": [
+                {
+                    "modelId": 2001,
+                    "cameraQuality": "200MP",
+                    "modelName": "Galaxy note8",
+                    "gamingPerformance": "High",
+                    "chipSet": "SnapDragon960"
+                },
+                {
+                    "modelId": 2008,
+                    "cameraQuality": "200MP",
+                    "modelName": "Galaxy Note3 Ultra",
+                    "gamingPerformance": "Ultra High",
+                    "chipSet": "snapdragon2081"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+{
+    "productId": 5,
+    "chocolates": "perk",
+    "juice": "coco cola",
+    "cheese": "Fat Cheese",
+    "panner": "Fat Panner",
+    "iceCream": "Strawberry",
+    "techProducts": [
+        {
+            "mId": 30112,
+            "mobileName": "OPPO Reno",
+            "mobileBrand": "OPPO",
+            "ram": 8,
+            "rom": 64,
+            "price": 40000.00,
+            "mobileModels": [
+                {
+                    "modelId": 3036,
+                    "cameraQuality": "108MP",
+                    "modelName": "Note 8",
+                    "gamingPerformance": "Medium",
+                    "chipSet": "SnapDragon683"
+                },
+                {
+                    "modelId": 3037,
+                    "cameraQuality": "50MP",
+                    "modelName": "Note3 Ultra",
+                    "gamingPerformance": "High",
+                    "chipSet": "snapdragon743"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+path&query- /tcs?queryKey=68464774
+hdr-        headerKey:HR
+
+{
+    "name": "testname",
+    "empid": "testempid1",
+    "company": "testingcompany",
+    "phoneNumber": "123456789",
+    "department": "testdprt",
+    "address": [
+        {
+            "doorNo": "testdoor",
+            "street": "teststreet",
+            "area": "testarea",
+            "city": "testcity"
+        },
+        {
+            "doorNo": "testdoor2",
+            "street": "teststreet2",
+            "area": "testarea2",
+            "city": "testcity2"
+        }
+    ]
+}

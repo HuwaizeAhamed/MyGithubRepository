@@ -1,0 +1,28 @@
+path - /688976556
+hdr  - company:Wipro
+
+<xmlPayloadModel>
+    <name>testname</name>
+    <empid>testempid1</empid>
+    <company>testingcompany</company>
+    <phoneNumber>123456789</phoneNumber>
+    <department>testdprt</department>
+    <address>
+        <doorNo>testdoor</doorNo>
+        <Street>teststreet</Street>
+        <area>testarea</area>
+        <city>testcity</city>
+    </address>
+    <address>
+        <doorNo>testdoor2</doorNo>
+        <Street>teststreet2</Street>
+        <area>testarea2</area>
+        <city>testcity2</city>
+    </address>
+    <address>
+        <doorNo>testdoor3</doorNo>
+        <Street>teststreet3</Street>
+        <area>testarea3</area>
+        <city>testcity3</city>
+    </address>
+</xmlPayloadModel>

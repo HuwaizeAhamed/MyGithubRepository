@@ -1,0 +1,1 @@
+This usecase is regarding to connect with entity manager using hibernate and persisting the data into Database.

@@ -1,0 +1,2 @@
+This usecase is regarding reading the values from the request body/payload, headers, query parameters, path parameters as JSON and
+generating the response based on the request payload in XML message format and vice versa using profiles.

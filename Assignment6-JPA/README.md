@@ -1,0 +1,2 @@
+This usecase is regarding how to create the crud operations using JPA Repository and persisting it into database and
+generating the response as JSON or XML message formats by enabling and externalizing the logs and handled commit and rollback DB Transactions.

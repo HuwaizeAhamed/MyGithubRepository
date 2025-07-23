@@ -1,0 +1,125 @@
+[
+    {
+        "empId": 2,
+        "name": "Aaron Finch",
+        "age": 30,
+        "company": "tcs",
+        "aadhaarCard": "5463 6474 7436 7345",
+        "panCard": "BGH4467FG6L",
+        "experience": "3.8",
+        "designation": "Senior Software Engineer",
+        "salary": 40000.0,
+        "bankName": "SBI",
+        "bankAccountNo": "101836461",
+        "ifscCode": "SBI84830",
+        "branch": "Navlur",
+        "address": [
+            {
+                "doorNo": "1BA",
+                "street": "5st Street",
+                "area": "navlur",
+                "district": "KancheepuramN",
+                "phone": 776143222,
+                "city": "ChennaiN",
+                "pinCode": 603102
+            },
+            {
+                "doorNo": "1BB",
+                "street": "4st Street",
+                "area": "padur",
+                "district": "KancheepuramP",
+                "phone": 872543213,
+                "city": "ChennaiP",
+                "pinCode": 603104
+            }
+        ]
+    },
+    {
+        "empId": 3,
+        "name": "Aaron",
+        "age": 28,
+        "company": "intellect",
+        "aadhaarCard": "7463 6474 7436 7344",
+        "panCard": "AGH4467FG6L",
+        "experience": "3.4",
+        "designation": "Software Engineer",
+        "salary": 10000.0,
+        "bankName": "HDFC",
+        "bankAccountNo": "10183646",
+        "ifscCode": "HDFC84830",
+        "branch": "Siruseri",
+        "address": [
+            {
+                "doorNo": "1AB",
+                "street": "1st Street",
+                "area": "siruseri",
+                "district": "Kancheepuram",
+                "phone": 176543221,
+                "city": "Chennai",
+                "pinCode": 603103
+            },
+            {
+                "doorNo": "1AD",
+                "street": "3st Street",
+                "area": "navlur",
+                "district": "Kancheepuram",
+                "phone": 276543212,
+                "city": "Chennai",
+                "pinCode": 603103
+            },
+            {
+                "doorNo": "1AE",
+                "street": "2st Street",
+                "area": "Melapuram",
+                "district": "Trichy",
+                "phone": 376543212,
+                "city": "Chennai",
+                "pinCode": 600004
+            }
+        ]
+    },
+    {
+        "empId": 1,
+        "name": "Aaron",
+        "age": 28,
+        "company": "intellect",
+        "aadhaarCard": "7463 6474 7436 7344",
+        "panCard": "AGH4467FG6L",
+        "experience": "3.4",
+        "designation": "Software Engineer",
+        "salary": 10000.0,
+        "bankName": "HDFC",
+        "bankAccountNo": "10183646",
+        "ifscCode": "HDFC84830",
+        "branch": "Siruseri",
+        "address": [
+            {
+                "doorNo": "1AD",
+                "street": "3st Street",
+                "area": "navlur",
+                "district": "Kancheepuram",
+                "phone": 576543212,
+                "city": "Chennai",
+                "pinCode": 603103
+            },
+            {
+                "doorNo": "1AE",
+                "street": "2st Street",
+                "area": "Melapuram",
+                "district": "Trichy",
+                "phone": 676543212,
+                "city": "Chennai",
+                "pinCode": 600004
+            },
+            {
+                "doorNo": "1AB",
+                "street": "1st Street",
+                "area": "siruseri",
+                "district": "Kancheepuram",
+                "phone": 476543221,
+                "city": "Chennai",
+                "pinCode": 603103
+            }
+        ]
+    }
+]

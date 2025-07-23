@@ -1,0 +1,2 @@
+This usecase is regarding to explore and to learn server side programs using HTTP protocol,
+by enabling cache,cookies,redirecting features,includes the response,forwards the request and maintaning sessions.

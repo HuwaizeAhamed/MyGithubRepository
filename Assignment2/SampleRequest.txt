@@ -1,0 +1,56 @@
+{
+    "emp_Name": "testname",
+    "employee_Id": "testempid",
+    "organization_Name": "testingcompany",
+    "emp_Mobile": "123456789",
+    "emp_Department": "testdprt",
+    "emp_Address": [
+        {
+            "emp_Door_No": "testdoor",
+            "emp_Street": "teststreet",
+            "emp_Area": "testarea",
+            "emp_City": "testcity"
+        },
+        {
+            "emp_Door_No": "testdoor2",
+            "emp_Street": "teststreet2",
+            "emp_Area": "testarea2",
+            "emp_City": "testcity2"
+        },
+        {
+            "emp_Door_No": "testdoor3",
+            "emp_Street": "teststreet3",
+            "emp_Area": "testarea3",
+            "emp_City": "testcity3"
+        }
+    ]
+}
+
+
+
+
+<Xml_Root_Response>
+    <empName>testname</empName>
+    <employeeId>testempid</employeeId>
+    <organizationName>testingcompany</organizationName>
+    <empMobile>123456789</empMobile>
+    <empDepartment>testdprt</empDepartment>
+    <empAddress>
+        <empDoorNo>testdoor</empDoorNo>
+        <empStreet>teststreet</empStreet>
+        <empArea>testarea</empArea>
+        <empCity>testcity</empCity>
+    </empAddress>
+    <empAddress>
+        <empDoorNo>testdoor2</empDoorNo>
+        <empStreet>teststreet2</empStreet>
+        <empArea>testarea2</empArea>
+        <empCity>testcity2</empCity>
+    </empAddress>
+    <empAddress>
+        <empDoorNo>testdoor3</empDoorNo>
+        <empStreet>teststreet3</empStreet>
+        <empArea>testarea3</empArea>
+        <empCity>testcity3</empCity>
+    </empAddress>
+</Xml_Root_Response>
