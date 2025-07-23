@@ -25,8 +25,8 @@ public class MultipartFileDownload_Repository {
 			System.out.println("RepoDao final");
 		}
 
-		try (Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/local_mysqldb", "root",
-				"Huwaize@123#")) {
+		try (Connection conn = DriverManager.getConnection("jdbc:mysql://****:****/****", "****",
+				"****")) {
 			Statement stmt = conn.createStatement();
 			ResultSet rs = stmt.executeQuery(sql);
 
